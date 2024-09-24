@@ -1,2 +1,2 @@
-public class Commit0 {
+public class Commit {
 }
